@@ -1,4 +1,4 @@
-### SwiftUI Circular Loader Project
+# SwiftUI Circular Loader Project
 ## Overview
 This SwiftUI project demonstrates how to create a captivating circular loader that transitions into a square shape, complete with full rotation effects. Designed for SwiftUI beginners, this tutorial will guide you through the basics of SwiftUI animations and help you implement a stylish loading indicator for your iOS apps.
 
@@ -8,13 +8,13 @@ This SwiftUI project demonstrates how to create a captivating circular loader th
 - Full Circle Rotation: Implement a full-circle rotation to enhance the visual dynamics of your loader.
 ## Installation
 To get started with this project, follow these simple steps:
-# Clone the repository:
+1. ### Clone the repository:
 ```bash
 git clone https://github.com/pouyasadri/CircularLoaderSwiftUI.git
 ```
-# Open the project in Xcode:
+2. ### Open the project in Xcode:
 Navigate to the cloned directory and open the .xcodeproj file.
-# Run the project:
+3. ### Run the project:
 Use Xcode to build and run the project on a simulator or a physical device.
 ## Usage
 This project is intended as a learning tool for those new to SwiftUI and interested in exploring animations within the framework. You can modify the shapes, transitions, and animations to experiment with different effects.
