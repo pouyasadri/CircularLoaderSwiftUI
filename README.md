@@ -14,6 +14,7 @@ git clone https://github.com/pouyasadri/CircularLoaderSwiftUI.git
 ```
 2. ### Open the project in Xcode:
 Navigate to the cloned directory and open the .xcodeproj file.
+
 3. ### Run the project:
 Use Xcode to build and run the project on a simulator or a physical device.
 ## Usage
