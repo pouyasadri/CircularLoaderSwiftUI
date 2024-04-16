@@ -9,14 +9,14 @@ This SwiftUI project demonstrates how to create a captivating circular loader th
 ## Installation
 To get started with this project, follow these simple steps:
 1. ### Clone the repository:
-```bash
-git clone https://github.com/pouyasadri/CircularLoaderSwiftUI.git
-```
+  - ```bash
+    git clone https://github.com/pouyasadri/CircularLoaderSwiftUI.git
+    ```
 2. ### Open the project in Xcode:
-Navigate to the cloned directory and open the .xcodeproj file.
+ - Navigate to the cloned directory and open the .xcodeproj file.
 
 3. ### Run the project:
-Use Xcode to build and run the project on a simulator or a physical device.
+  - Use Xcode to build and run the project on a simulator or a physical device.
 ## Usage
 This project is intended as a learning tool for those new to SwiftUI and interested in exploring animations within the framework. You can modify the shapes, transitions, and animations to experiment with different effects.
 ## Contributing
